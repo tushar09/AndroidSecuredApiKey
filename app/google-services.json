@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591825903986",
+    "project_id": "api-key-a223a",
+    "storage_bucket": "api-key-a223a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591825903986:android:1c9f770cd13ee4a1e3bdeb",
+        "android_client_info": {
+          "package_name": "com.captaindroid.secureapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591825903986-ulmkm929hpifc83h5j7f0hkheti48iob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBI5Ux4RFqoEodLDkBw5k_PLpI51-d2y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591825903986-ulmkm929hpifc83h5j7f0hkheti48iob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
