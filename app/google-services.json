@@ -1,33 +1,42 @@
 {
   "project_info": {
-    "project_number": "591825903986",
-    "project_id": "api-key-a223a",
-    "storage_bucket": "api-key-a223a.appspot.com"
+    "project_number": "558513400386",
+    "firebase_url": "https://kye-a0afd-default-rtdb.firebaseio.com",
+    "project_id": "kye-a0afd",
+    "storage_bucket": "kye-a0afd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:591825903986:android:1c9f770cd13ee4a1e3bdeb",
+        "mobilesdk_app_id": "1:558513400386:android:031eda4a4af1a6e73adbdb",
         "android_client_info": {
           "package_name": "com.captaindroid.secureapi"
         }
       },
       "oauth_client": [
         {
-          "client_id": "591825903986-ulmkm929hpifc83h5j7f0hkheti48iob.apps.googleusercontent.com",
+          "client_id": "558513400386-53i1h4r33j86bh3i2kkieq724i1tteg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.captaindroid.secureapi",
+            "certificate_hash": "fd19a23562a399e7173b2585468f71b64d690057"
+          }
+        },
+        {
+          "client_id": "558513400386-jh4iduc19fbt3k5ld58ejr5of0ljtvce.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDBI5Ux4RFqoEodLDkBw5k_PLpI51-d2y8"
+          "current_key": "AIzaSyBMkl9L9pOkCrKowpiIHI9WhIvCWBPILH4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "591825903986-ulmkm929hpifc83h5j7f0hkheti48iob.apps.googleusercontent.com",
+              "client_id": "558513400386-jh4iduc19fbt3k5ld58ejr5of0ljtvce.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
